@@ -311,15 +311,16 @@ If you are remote and don't have fiber connectivity or you want to explore other
 | **Provider**|
 | --- |
 | **AARNET**| 
-| **DeIC, through GÉANT**|
-| **GARR, through GÉANT**|
-| **GÉANT**|
-| **HEAnet, through GÉANT**|
+| **[CESNET](https://www.cesnet.cz/?lang=en), through [GÉANT](https://clouds.geant.org/geant-cloud-catalogue/geant-cloud-catalogue-cloud-connection-services/)**|
+| **DeIC, through [GÉANT](https://clouds.geant.org/geant-cloud-catalogue/geant-cloud-catalogue-cloud-connection-services/)**|
+| **GARR, through [GÉANT](https://clouds.geant.org/geant-cloud-catalogue/geant-cloud-catalogue-cloud-connection-services/)**|
+| **[GÉANT](https://clouds.geant.org/geant-cloud-catalogue/geant-cloud-catalogue-cloud-connection-services/)**|
+| **HEAnet, through [GÉANT](https://clouds.geant.org/geant-cloud-catalogue/geant-cloud-catalogue-cloud-connection-services/)**|
 | **Internet2**|
 | **JISC**|
-| **RedIRIS, through GÉANT**|
+| **RedIRIS, through [GÉANT](https://clouds.geant.org/geant-cloud-catalogue/geant-cloud-catalogue-cloud-connection-services/)**|
 | **SINET**|
-| **Surfnet, through GÉANT**|
+| **Surfnet, through [GÉANT](https://clouds.geant.org/geant-cloud-catalogue/geant-cloud-catalogue-cloud-connection-services/)**|
 
 * If your connectivity provider is not listed here, please check to see if they are connected to any of the ExpressRoute Exchange Partners listed above.
 
