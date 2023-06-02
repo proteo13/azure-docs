@@ -355,6 +355,7 @@ If you're remote and don't have fiber connectivity, or you want to explore other
 | Provider |
 | --- |
 | **AARNET**| 
+| **CESNET, through GÉANT**|
 | **DeIC, through GÉANT**|
 | **GARR, through GÉANT**|
 | **GÉANT**|
